@@ -1,0 +1,19 @@
+{
+  "name": "merntutorial",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrAco/MernPrac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrAco/MernPrac/issues"
+  },
+  "homepage": "https://github.com/ChrAco/MernPrac#readme"
+}
